@@ -1,6 +1,6 @@
 owner=490871722011131935
 prefix=1
-game=1play|#PG Community
+game=Lightning Server
 stayinchannel=true
 songinstatus=false
 token=NTkwODc0NTc0MzQyODQ4NTMy.XQp8Vw.6o3JH9HY2YmESo2lhQcDPhIlqxo
